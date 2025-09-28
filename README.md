@@ -107,6 +107,3 @@ Remarks: Strong password. Good job!
 * Built an interactive Python tool to guide users toward stronger passwords.
 
 ---
-
-👨‍💻 *Prepared by: [Your Name]*
-SkillCraft Technology – Cybersecurity Internship
